@@ -1,0 +1,14 @@
+C:\Users\44647334848\Documents\SENAI\exerHerancaPolimorfismo\bin\Debug\net10.0\exerHerancaPolimorfismo.exe
+C:\Users\44647334848\Documents\SENAI\exerHerancaPolimorfismo\bin\Debug\net10.0\exerHerancaPolimorfismo.deps.json
+C:\Users\44647334848\Documents\SENAI\exerHerancaPolimorfismo\bin\Debug\net10.0\exerHerancaPolimorfismo.runtimeconfig.json
+C:\Users\44647334848\Documents\SENAI\exerHerancaPolimorfismo\bin\Debug\net10.0\exerHerancaPolimorfismo.dll
+C:\Users\44647334848\Documents\SENAI\exerHerancaPolimorfismo\bin\Debug\net10.0\exerHerancaPolimorfismo.pdb
+C:\Users\44647334848\Documents\SENAI\exerHerancaPolimorfismo\obj\Debug\net10.0\exerHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44647334848\Documents\SENAI\exerHerancaPolimorfismo\obj\Debug\net10.0\exerHerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\44647334848\Documents\SENAI\exerHerancaPolimorfismo\obj\Debug\net10.0\exerHerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\44647334848\Documents\SENAI\exerHerancaPolimorfismo\obj\Debug\net10.0\exerHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\44647334848\Documents\SENAI\exerHerancaPolimorfismo\obj\Debug\net10.0\exerHerancaPolimorfismo.dll
+C:\Users\44647334848\Documents\SENAI\exerHerancaPolimorfismo\obj\Debug\net10.0\refint\exerHerancaPolimorfismo.dll
+C:\Users\44647334848\Documents\SENAI\exerHerancaPolimorfismo\obj\Debug\net10.0\exerHerancaPolimorfismo.pdb
+C:\Users\44647334848\Documents\SENAI\exerHerancaPolimorfismo\obj\Debug\net10.0\exerHerancaPolimorfismo.genruntimeconfig.cache
+C:\Users\44647334848\Documents\SENAI\exerHerancaPolimorfismo\obj\Debug\net10.0\ref\exerHerancaPolimorfismo.dll
