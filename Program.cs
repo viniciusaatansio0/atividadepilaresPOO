@@ -1,6 +1,6 @@
 ﻿using exerHerancaPolimorfismo;
 /*
-//* exercicio 1
+//* exercicio 1 - Sistema de veículos
 Carro c1 = new Carro();
 c1.Marca = "honda";
 c1.Modelo = "HRV";
@@ -16,7 +16,7 @@ m1.Cilindradas = 1923;
 m1.ExibirInformacoes();
 */
 
-//* exercicio 2
+//* exercicio 2 - Sistema de produtos digitais
 /*
 Ebook m1 = new Ebook("manuela", 23, 14);
 m1.ExibirInformacoes();
@@ -24,7 +24,7 @@ m1.ExibirInformacoes();
 CursosOnline f1= new CursosOnline("c#", 40, 7);
 f1.ExibirInformacoes();
 */
-//* exercicio 3
+//* exercicio 3 - Sistema de jogos
 /*
 JogoFisico g1 = new JogoFisico("God of War", "antonio celulares", "Fisico");
 g1.ExibirInformacoes();
@@ -33,7 +33,7 @@ JogoDigital f1 = new JogoDigital("hollow knight", "xbox", "digital");
 f1.ExibirInformacoes();
 */
 
-//* EXERCICIO 4
+//* EXERCICIO 4 - Sistema de notificações
 
 /*
 Notificacao m1 = new Notificacao();
@@ -49,6 +49,18 @@ NotificacaoPush m4 = new NotificacaoPush();
 m4.enviar();
 */
 
-//*exercicio 5
-entregaExpressa m1 = new entregaExpressa();
-m1.CalcularFrete(400, 50);
+//*exercicio 5 - Sistema de cálculo de frete
+
+// List<Entrega> ListaEntregas = new List<Entrega>
+// {
+//     new entregaExpressa { Distancia = 10 },
+//     new EntregaEconomica { Distancia = 10 },
+//     new RetiradaLocal { Distancia = 10 }
+// };
+
+// foreach (Entrega ItemEntrega in ListaEntregas)
+// {
+//     Console.WriteLine($"Modalidade: {ItemEntrega.GetType().Name} | Distância: {ItemEntrega.Distancia} km | Frete: {ItemEntrega.CalcularFrete():C}");
+// }
+
+//*exercicio 6 - Sistema de documentos

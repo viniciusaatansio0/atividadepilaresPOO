@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\44647334848\\Documents\\SENAI\\exerHerancaPolimorfismo\\exerHerancaPolimorfismo.csproj": {}
+    "C:\\Users\\44647334848\\Documents\\SENAI\\ex_HerancaPolimorfismo\\exerHerancaPolimorfismo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\44647334848\\Documents\\SENAI\\exerHerancaPolimorfismo\\exerHerancaPolimorfismo.csproj": {
+    "C:\\Users\\44647334848\\Documents\\SENAI\\ex_HerancaPolimorfismo\\exerHerancaPolimorfismo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\44647334848\\Documents\\SENAI\\exerHerancaPolimorfismo\\exerHerancaPolimorfismo.csproj",
+        "projectUniqueName": "C:\\Users\\44647334848\\Documents\\SENAI\\ex_HerancaPolimorfismo\\exerHerancaPolimorfismo.csproj",
         "projectName": "exerHerancaPolimorfismo",
-        "projectPath": "C:\\Users\\44647334848\\Documents\\SENAI\\exerHerancaPolimorfismo\\exerHerancaPolimorfismo.csproj",
+        "projectPath": "C:\\Users\\44647334848\\Documents\\SENAI\\ex_HerancaPolimorfismo\\exerHerancaPolimorfismo.csproj",
         "packagesPath": "C:\\Users\\44647334848\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\44647334848\\Documents\\SENAI\\exerHerancaPolimorfismo\\obj\\",
+        "outputPath": "C:\\Users\\44647334848\\Documents\\SENAI\\ex_HerancaPolimorfismo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

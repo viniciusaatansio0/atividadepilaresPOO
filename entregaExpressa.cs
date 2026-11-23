@@ -8,12 +8,12 @@ namespace exerHerancaPolimorfismo
 
     public class entregaExpressa : Entrega
     {
-        public override decimal CalcularFrete(decimal frete, decimal taxaAdicional)
+
+        public int TaxaAdicional { get; set; } = 15;
+
+        public override double CalcularFrete()
         {
-            frete = frete + taxaAdicional;
-
-            return frete ;
-            }
-
+            return (Distancia * 2.5) + TaxaAdicional;
+        }
     }
 }
