@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exerHerancaPolimorfismo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+374c361d41780f2d23974ae87314e71bb5f9e4d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f71eb9c34f201843136f6cf9774e0990da7fd9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("exerHerancaPolimorfismo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exerHerancaPolimorfismo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

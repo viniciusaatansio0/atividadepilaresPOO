@@ -64,3 +64,13 @@ m4.enviar();
 // }
 
 //*exercicio 6 - Sistema de documentos
+
+// Relatorio MeuRelatorio = new Relatorio { Titulo = "Faturamento do mes" };
+// Contrato MeuContrato = new Contrato { NumeroContrato = "4002-8922" };
+
+// MeuRelatorio.Imprimir();
+// MeuRelatorio.Exportar();
+
+// MeuContrato.Imprimir();
+
+//*exercicio 7 - 
